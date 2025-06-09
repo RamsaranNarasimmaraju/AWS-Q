@@ -79,11 +79,3 @@ A zombie survival game with flying mechanics:
 These games were created using Pygame, a set of Python modules designed for writing video games. The code is structured with classes for game objects like players, enemies, projectiles, and power-ups.
 
 Feel free to modify and expand upon these games to add new features or improve existing ones!
-
-## License
-
-These games are provided for educational and entertainment purposes.
-
-## Credits
-
-Created with Python and Pygame.
